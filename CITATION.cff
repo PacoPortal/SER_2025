@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Speech Emotion Recognition 2025"
+abstract: "A research codebase for training and evaluating transformer-based Speech Emotion Recognition models on multiple audio datasets."
+authors:
+  - family-names: "Your Last Name"
+    given-names: "Your First Name"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/yourusername/SER_2025"
+keywords:
+  - speech emotion recognition
+  - deep learning
+  - transformers
+  - HuBERT
+  - Wav2Vec2
+  - audio classification
+  - emotion detection
+  - pytorch
+license: MIT
+version: 1.0.0
+date-released: 2025-01-01
